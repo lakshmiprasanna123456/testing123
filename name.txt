@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 red
 git
+=======
+efkwfjfjewf
+>>>>>>> 872e968f9cec6f8bd044ef7639b6beffaa372d26
